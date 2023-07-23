@@ -1,0 +1,27 @@
+{
+    "Maya": {
+        "Exe": [
+            "maya",
+            "mayabatch",
+            "mayapy",
+            "mayapy2"
+        ],
+        "Company": "Autodesk"
+    },
+    "Houdini": {
+        "Exe": [
+            "houdini",
+            "happrentice",
+            "hindie",
+            "houdinicore",
+            "houdinifx",
+            "hcmd",
+            "hcommand",
+            "hcustom",
+            "hscript",
+            "hython",
+            "hbatch"
+        ],
+        "Company": "Side Effects Software Inc."
+    }
+}
